@@ -28,7 +28,7 @@ public class ProdutoPerecivel extends Produto {
 	}
 	
 	public String toString() {
-		return  "\n" + nome + "\n" + quantidade + "\nPreço" + "\n" + preco
+		return  "\n" + nome + "\n" + quantidade + "\n" + preco
 				+ "\n" + validade;
 	}
 
